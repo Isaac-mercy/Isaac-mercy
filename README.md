@@ -22,3 +22,8 @@ https://github.com/isaac-mercy-test/hello-world.git
   <a href="#"><i class="fa fa-globe"></i></a>
   <a href="#"><i class="fa fa-trash"></i></a>
 </div>
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
